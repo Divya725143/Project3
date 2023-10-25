@@ -1,0 +1,42 @@
+*{
+    margin:0px;
+    padding:0px;
+    text-decoration: none;
+    list-style-type: none;
+}
+
+.cs1{
+    display: flex;
+    
+    background-color:purple;
+    font-size:20px;
+}
+.cs1 ul{
+    display: flex;
+}
+.cs1 ul li{
+    margin:0px;
+    margin-top:25px;
+}
+.cs1 ul li a{
+    color:orange;
+    font-weight: bold;
+    transition:1s all;
+    margin-left:200px;
+    margin-right:0px;
+
+}
+.cs1 ul li a:hover{
+    color: green;
+    cursor: pointer; 
+}
+body{
+   
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+    background-color:pink;
+}
+h1{
+    margin:200px;
+}

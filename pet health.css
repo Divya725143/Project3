@@ -1,0 +1,116 @@
+*{
+    margin:0px;
+    padding:0px;
+    text-decoration: none;
+    list-style-type: none;
+}
+
+.cs1 ul{
+    display: flex;
+    background-color:purple;
+    font-size:20px;
+}
+.cs1 ul li{
+    margin:0px;
+    margin-top:25px;
+   
+}
+
+.cs1 ul li a{
+    color:orange;
+    font-weight: bold;
+    transition:1s all;
+    margin-left:200px;
+    margin-right:0px;
+   
+
+}
+h1{
+    text-decoration: underline;
+    text-align: center;
+    color:green;
+}
+h2{
+    text-decoration: underline; 
+    margin:20px;
+    color:blue
+}
+p{
+    font-size:20px;
+    margin:30px;
+}
+.cs1 ul img{
+    width:100px;
+   
+   
+    
+}
+.cs2 {
+    display: flex;
+   margin:20px;
+    text-align: center;
+}
+.cs2 p{
+    margin:100px;
+    color:brown
+}
+
+*{
+    margin:0px;
+    padding:0px;
+    text-decoration: none;
+    list-style-type: none;
+}
+body{
+    background-image: url(https://img.freepik.com/premium-vector/cute-pastel-pink-paw-pattern-background-pets_654662-181.jpg?w=2000);
+    background-size: cover;
+      margin: 0px;
+  }
+
+.cs2{
+    font-size:20px;
+    color: rgb(17, 22, 22);
+    font-style: oblique;
+    margin-bottom: 20px;
+    
+}
+.cs3{
+    font-size:20px;
+    color: rgb(17, 22, 22);
+    font-style: oblique;
+    margin-bottom: 20px;
+    
+}
+.cs4{
+    font-size:20px;
+    color: rgb(17, 22, 22);
+    font-style: oblique;
+    margin-bottom: 20px;
+    display: flex;
+   justify-content: space-between;
+}
+
+.cs4 img{
+    margin:30px;
+    margin-top:150px;
+}
+.cs3{
+    display: flex;
+}
+.cs3 img{
+    margin:30px;
+    margin-top:150px;
+}
+.cs2{
+    display: flex;
+}
+.cs2 img{
+    margin:30px;
+    margin-top:150px;
+}
+p{
+    margin:20px;
+}
+.cs3 pre{
+    margin-left:10px;
+}
